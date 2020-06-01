@@ -1,0 +1,64 @@
+html
+{
+	font-style:italic;
+	font-family: cursive;
+	background: black;
+	color:white;
+}
+body
+{
+	color:white;
+}
+p
+{
+	color:white;
+}
+li
+{
+	color:white;
+	transition-timing-function: ease-in-out;
+}
+h3
+{
+	font-size: 40px;
+	color: white;
+}
+a
+{
+	color: white;
+}
+/*h4 {
+    t: fill-box;
+    text-transform: uppercase;
+}*/
+article
+{
+	width: 54%;
+	color:white;
+	text-align: justify;
+}
+header
+{
+	height: 500px;
+	color:white;
+}
+.uppercase
+{
+	text-transform: uppercase;
+	color:white;
+}
+#blog-desc
+{
+	color:white;
+	text-transform: uppercase;
+
+}
+#blog-title:hover
+{
+	color:orange;
+}
+
+.hovering:hover
+{
+	color:magenta;
+}
